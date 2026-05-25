@@ -212,7 +212,7 @@ export default function App() {
     </p>
 
     <a
-      href="https://t.me/BotsServerDead"
+      href="https://t.me/+3XHw7Ok1pXphYzll"
       target="_blank"
       className="open-btn"
     >
